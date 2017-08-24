@@ -9,7 +9,7 @@ int main()
     int z;
     cout<<"ingrese un numero"<<endl;
     cin>>x;
-    if(x==0)
+    if(x<2)
         cout<<"el numero no es primo"<<endl;
     y=0;
     z=1;
