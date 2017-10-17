@@ -10,3 +10,23 @@
 	"jugador.h"
 	<iostream>
 
+1508202638 source:c:\users\usuario\cc1-proyecto3\objetos\main.cpp
+	<iostream>
+	"jugador.h"
+
+1508199855 source:c:\users\usuario\cc1-proyecto3\objetos\src\jugador.cpp
+	"jugador.h"
+	<iostream>
+
+1508199855 c:\users\usuario\cc1-proyecto3\objetos\include\jugador.h
+	<string>
+
+1508203012 source:c:\users\usuario\cc1-proyecto3\objetos\src\equipo.cpp
+	"equipo.h"
+	"jugador.h"
+	<iostream>
+
+1508203039 c:\users\usuario\cc1-proyecto3\objetos\include\equipo.h
+	"jugador.h"
+	<string>
+
