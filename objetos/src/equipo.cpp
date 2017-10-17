@@ -34,7 +34,14 @@ void equipo::setequipo(jugador p[11]){
         cout<<"ingrese agresividad del jugador"<<endl;
         cin>>z;
 
-        p[i](w,x,y,z);
+        p[i].setnombre(w);
+        p[i].setnum(x);
+        p[i].setposicion(y);
+        p[i].setagresividad(z);
+
+        p[i].print();
+
+
 
     }
 }

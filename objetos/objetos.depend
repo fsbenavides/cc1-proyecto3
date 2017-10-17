@@ -1,12 +1,15 @@
 # depslib dependency file v1.0
-1507824587 source:c:\users\alumno-d\cc1-proyecto3\objetos\main.cpp
+1508249804 source:c:\users\alumno-d\cc1-proyecto3\objetos\main.cpp
 	<iostream>
 	"jugador.h"
+	"equipo.h"
+	<string>
+	<cstdlib>
 
-1507821814 c:\users\alumno-d\cc1-proyecto3\objetos\include\jugador.h
+1508247743 c:\users\alumno-d\cc1-proyecto3\objetos\include\jugador.h
 	<string>
 
-1507824562 source:c:\users\alumno-d\cc1-proyecto3\objetos\src\jugador.cpp
+1508247743 source:c:\users\alumno-d\cc1-proyecto3\objetos\src\jugador.cpp
 	"jugador.h"
 	<iostream>
 
@@ -27,6 +30,15 @@
 	<iostream>
 
 1508203039 c:\users\usuario\cc1-proyecto3\objetos\include\equipo.h
+	"jugador.h"
+	<string>
+
+1508247743 source:c:\users\alumno-d\cc1-proyecto3\objetos\src\equipo.cpp
+	"equipo.h"
+	"jugador.h"
+	<iostream>
+
+1508249930 c:\users\alumno-d\cc1-proyecto3\objetos\include\equipo.h
 	"jugador.h"
 	<string>
 
