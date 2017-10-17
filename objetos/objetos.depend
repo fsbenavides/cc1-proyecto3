@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1508249804 source:c:\users\alumno-d\cc1-proyecto3\objetos\main.cpp
+1508250102 source:c:\users\alumno-d\cc1-proyecto3\objetos\main.cpp
 	<iostream>
 	"jugador.h"
 	"equipo.h"

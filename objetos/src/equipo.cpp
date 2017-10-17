@@ -46,8 +46,12 @@ void equipo::setequipo(jugador p[11]){
     }
 }
 
+
+
 void equipo::printe(){
     cout<<nombre<<endl;
+    for(int i=0;i<11;i++)
+        p[i].print();
 
 
 }
