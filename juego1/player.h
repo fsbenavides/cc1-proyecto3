@@ -34,7 +34,7 @@ void player::teclado()
 {
       int ax = x;
       int ay = y;
-      // teclas control usuario
+
       if ( key[KEY_UP] )
       {
            y-=desplazamiento;
@@ -57,12 +57,12 @@ void player::teclado()
       }
       if ( ax != x || ay != y )
       {
-           // entra si a cambiado alguna de las variables x,y
+
            animacion++;
            if ( animacion > 2 ) animacion = 0;
       }
 
-      // limites globales
+
       if ( x < 0 ) x = 0;
       if ( x > PANTALLA_ANCHO ) x = PANTALLA_ANCHO;
       if ( y < 0 ) y = 0;
