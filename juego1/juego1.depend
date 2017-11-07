@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1510030581 source:d:\rpg\juego1\main.cpp
+	<iostream>
+	<allegro.h>
+	"global.h"
+	"player.h"
+	"mijuego.h"
+
+1510030641 d:\rpg\juego1\global.h
+
+1510029513 d:\rpg\juego1\include\player.h
+	<allegro.h>
+	"../global.h"
+
+1510029298 source:d:\rpg\juego1\src\player.cpp
+	"player.h"
+
+1510030525 d:\rpg\juego1\player.h
+
+1510030682 d:\rpg\juego1\mijuego.h
+
